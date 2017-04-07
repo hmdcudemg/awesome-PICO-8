@@ -1,0 +1,8 @@
+title: Awesome PICO-8
+description: A curated list of PICO-8 resources, tutorials, tools and more
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
